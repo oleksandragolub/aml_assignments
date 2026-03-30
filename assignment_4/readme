@@ -1,1 +1,10 @@
+Compute the accuracy of the CNN at predicting the next charter on the test set. The test set could be the second part of the book, or a completely different book.
 
+Change the neural model and design a RNN using the available keras layers. The RNN should be in the same range of number of trainable parameters of the CNN (i.e. about less than 500k).
+
+Compute the accuracy of the RNN.
+
+What to submit:
+
+The code in .py or .ipynb format.
+A short report (pdf format, max 1 page) providing the architecture of the implemented RNN, its total number of parameters, the accuracy of the CNN and the accuracy of the RNN.
