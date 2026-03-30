@@ -1,0 +1,6 @@
+Design and train a CNN with up to 7000 trainable parameters to obtain the best results on the MNIST dataset.
+
+What to submit:
+
+The code in .py or .ipynb format.
+A short report (pdf format, max 1 page) discussing the design choices and the results obtained from the proposed architecture.
