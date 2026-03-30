@@ -1,1 +1,2 @@
 The problem related to the high lambda value in L1 regularization was not identified (problem 3)
+Additionally, learning rate was set equal to 0.001 for problem 3.
